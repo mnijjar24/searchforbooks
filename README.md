@@ -4,6 +4,12 @@ The book search engine is for readers of all types who want to search for new bo
 
 ## Screenshots of the Book Search Engine
 
+![1](https://user-images.githubusercontent.com/87215165/151209773-df939374-8e0a-4eb2-8aaf-9e13a435bed5.png)
+
+![2](https://user-images.githubusercontent.com/87215165/151209783-696d421a-ba16-4831-b1a7-fe10f0fd1f04.png)
+
+![3](https://user-images.githubusercontent.com/87215165/151209791-cb095274-68da-4503-b424-7e860e39653a.png)
+
 
 ## Links
 Deployed Application: 
